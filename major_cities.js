@@ -13,4 +13,4 @@ var bcCities = array[0].length
 var abCities = array[1].length
 
 
-console.log("BC has " + bcCities + " main cities " + abCities + " AB has 2 main cities.");
+console.log("BC has " + bcCities + " main cities, AB has " + abCities + " main cities.");
